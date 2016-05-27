@@ -1,10 +1,5 @@
 //=======================================================================
 // Name         : Nidhi Patel
-// SID          : 31379144
-// Course       : IT114
-// Section      : 452
-// Instructor   : Maura Deek
-// Assignment # : Programming Assignment 2
 // Date         :  03/03/2016
 // Description  : This program is an ATM(Cash Machine with a simple GUI
 //=======================================================================
@@ -76,7 +71,7 @@ public class ATM extends Application  {
 		//Create a text field to get inputs from the user
 		TextField inputTxt = new TextField();
 
-		//Set propertied for the text field
+		//Set properties for the text field
 		inputTxt.setEditable(false);
 		txtArea.setWrapText(true);
 
